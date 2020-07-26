@@ -44,6 +44,10 @@ public class StudentDbTest {
 			e.printStackTrace();
 		}
 		
+		
+		
+		
+		
 		do {
 			System.out.println("choose \n 1 for add Student \n 2 for search Student \n 3 for list all names \n 4 for delete a student\n 5 for exit");
 			choice=scan.nextLine();
