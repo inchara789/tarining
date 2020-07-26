@@ -1,0 +1,59 @@
+<h1>Information</h1><br>
+
+<h2>Name*:<input type="text" value=""></h2>
+<h2>Middle name:<input type="text" value=""></h2>
+<h2>Last name:*<input type="text" value=""></h2>
+<h2>Suffix:<select>
+	<option>Mr</option>
+	<option>Ms.</option>
+	<option>Mrs.</option>
+</select></h2>
+<h2>Gender:<input type="radio" name="Gender" value="male">Male
+<input type="radio" name="Gender" value="female">Female
+others:<input type="text" value="">
+</h2>
+
+<h2>Date of Birth(dd/mm/yyy):
+<select>
+	<option>01</option>
+	<option>02</option>
+	<option>03</option>
+</select>
+<select>
+	<option>jan</option>
+	<option>feb</option>
+	<option>mar</option>
+</select>
+<select>
+	<option>2000</option>
+	<option>2001</option>
+	<option>2002</option>
+</select>
+</h2>
+
+<h2><center><input type="button" value ="SUBMIT"></center></h2>
+
+<center>
+<table>
+	
+<tr>
+	<th>NAME</th>
+	<th>AGE</th>
+	<th>PH.NO</th>
+</tr>
+
+<tr>
+	<td>abc</td>
+	<td>21</td>
+	<td>1111111</td>
+</tr>	
+
+<tr>
+	<td>def</td>
+	<td>25</td>
+	<td>2222222</td>
+</tr>
+
+
+</table>
+</center>
